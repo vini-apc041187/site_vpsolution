@@ -1,0 +1,15 @@
+# VP Solution
+
+> Consultoria em cibersegurança em São Paulo, Brasil. Atuação como vCISO (CISO como serviço), segurança de e-mail (SPF, DKIM e DMARC) e assessoria em infraestrutura de TI para empresas.
+
+## Serviços
+
+- vCISO: liderança de segurança sob demanda, com diagnóstico de riscos, plano de ação priorizado, políticas e acompanhamento.
+- Segurança de e-mail: configuração e monitoramento de SPF, DKIM e DMARC para impedir falsificação de domínio e melhorar a entrega de mensagens.
+- Assessoria em infraestrutura de TI: avaliação e orientação sobre redes, endpoints e ambiente de TI.
+
+## Contato
+
+- Site: https://www.vpsolution.com.br/
+- E-mail: contato@vpsolution.com.br
+- WhatsApp: +55 11 92018-0078
